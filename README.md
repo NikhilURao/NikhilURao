@@ -2,6 +2,7 @@
 [![Linkedin: nikhilurao](https://img.shields.io/badge/-nikhilurao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhilurao/)](https://www.linkedin.com/in/nikhilurao/) 
 [![GitHub nurao](https://img.shields.io/github/followers/NikhilURao?label=follow&style=social)](https://github.com/NikhilURao)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:nikhilurao@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=NikhilURao.NikhilURao)
 #### A Software/ Data Engineer from Bangalore, India 
 #### I am on a mission to get 1% better everyday 🌱
 
